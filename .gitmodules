@@ -1,0 +1,3 @@
+[submodule "molecular-state-classes-and-functions"]
+	path = molecular-state-classes-and-functions
+	url = https://github.com/otimgren/molecular-state-classes-and-functions.git
